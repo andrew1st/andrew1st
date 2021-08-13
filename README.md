@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew1st
-- 👀 I’m interested in Python, Databases, Cyber Security, Embedded Systems, and Technology in General.
-- 🌱 I’m currently learning Python, MySQL, Django, Apache & Embeeded Systems.
+- 👀 I’m interested in DevOps, Database Management, Website Design, Cyber Security, Embedded Systems, and Technology in General.
+- 🌱 I’m currently learning Python, MySQL, Apache, Javascript, and C++.
 <!--- 📫 How to reach me ... --->
 
 <!---
