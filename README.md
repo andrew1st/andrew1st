@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew1st
-- 👀 I’m interested in DevOps, Database Management, Website Design, Cyber Security, Embedded Systems, and Technology in General.
-- 🌱 I’m currently learning Python, MySQL, Apache, Javascript, and C++.
+- 👀 I’m interested in DevOps, Database Management, Website Design, Cyber Security, Embedded Systems, as well as consumer electronics/technology.
+- 🌱 I’m currently learning Python, MySQL, Apache, PHP, Javascript, and C++.
 <!--- 📫 How to reach me? Should I tell people to pull request this readme to contact me?... --->
 
 <!---
