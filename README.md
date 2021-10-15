@@ -1,6 +1,6 @@
-- ##👋 Hi, I’m @andrew1st##
-- # Thanks for taking a peak 👀 More Content & Updates Coming Soon
-- # Appreciate the patience
+# 👋 Hi, I’m @andrew1st
+## Thanks for Taking a Peak at my GitHub 👀 
+More Content & Updates Coming Soon...
 <!--- 📫 How to reach me? Should I tell people to pull request this readme to contact me?... --->
 
 <!---
